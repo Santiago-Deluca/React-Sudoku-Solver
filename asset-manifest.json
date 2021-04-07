@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Sudoku-Solver/static/css/main.2a2a1e34.chunk.css",
+    "main.js": "/React-Sudoku-Solver/static/js/main.142fee52.chunk.js",
+    "main.js.map": "/React-Sudoku-Solver/static/js/main.142fee52.chunk.js.map",
+    "runtime-main.js": "/React-Sudoku-Solver/static/js/runtime-main.8f3bcb1e.js",
+    "runtime-main.js.map": "/React-Sudoku-Solver/static/js/runtime-main.8f3bcb1e.js.map",
+    "static/js/2.324e53a6.chunk.js": "/React-Sudoku-Solver/static/js/2.324e53a6.chunk.js",
+    "static/js/2.324e53a6.chunk.js.map": "/React-Sudoku-Solver/static/js/2.324e53a6.chunk.js.map",
+    "static/js/3.1155e846.chunk.js": "/React-Sudoku-Solver/static/js/3.1155e846.chunk.js",
+    "static/js/3.1155e846.chunk.js.map": "/React-Sudoku-Solver/static/js/3.1155e846.chunk.js.map",
+    "index.html": "/React-Sudoku-Solver/index.html",
+    "static/css/main.2a2a1e34.chunk.css.map": "/React-Sudoku-Solver/static/css/main.2a2a1e34.chunk.css.map",
+    "static/js/2.324e53a6.chunk.js.LICENSE.txt": "/React-Sudoku-Solver/static/js/2.324e53a6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Sudoku-Solver/static/media/DelaGothicOne-Regular.49d69206.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3bcb1e.js",
+    "static/js/2.324e53a6.chunk.js",
+    "static/css/main.2a2a1e34.chunk.css",
+    "static/js/main.142fee52.chunk.js"
+  ]
+}
