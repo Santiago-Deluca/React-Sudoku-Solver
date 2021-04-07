@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Dela Gothic One Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dela Gothic One Regular'), url('DelaGothicOne-Regular.ttf') format('truetype');
+}
+
+body {
+	font-family: 'Dela Gothic One Regular';
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #333333;
+}
+
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: auto;
+}
+
+.grid-container {
+	display: grid;
+	width: 92%;
+	height: 100%;
+	max-width: 100vw;
+	max-height: 100vh;
+	grid-template-columns: repeat(9, 1fr);
+	grid-template-rows: repeat(9, 1fr);
+	background-color: #333333;
+  	border: 0.7rem solid #ffffb3;
+  	border-radius: 14px;
+}
+
+.box {
+	width: 90%;
+	height: auto;
+	color: white;
+	font-size: 1.4rem;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	border-radius: 3px;
+  	border-width: 1px;
+  	font-family: 'Dela Gothic One Regular';
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 4rem;
+	margin-bottom: 1rem;
+}
+
+.buttons-grid{
+	margin-left: 0.5rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	display: grid;
+	width: 92%;
+	height: 100%;
+	max-width: 100vw;
+	max-height: 100vh;
+	grid-template-columns: repeat(3, 1fr);
+	grid-column-gap: 1.2rem;
+}
+
+button {
+	font-size: 1.4rem;
+	margin: 0.8px;
+	border-radius: 14px;
+	border-width: 0px;
+	color: black;
+	width: 100%;
+	font-family: 'Dela Gothic One Regular';
+}
+
+.yellow {
+	background-color: #ffff80;
+}
+
+.blue {
+	background-color: #66ffff;
+}
+
+.green {
+	background-color: #66ffc2;
+}
+
+.loggerBox {
+	background-color: #6666ff;
+	margin-top: 3rem;
+	color: white;
+	overflow: scroll;
+	height: 50vh;
+	width: 100%;
+	border-radius: 1rem;
+}
+
+.splP {
+	margin: 1.2rem;
+}
+
+h2{
+	text-align: center;
+	font-weight:normal;
+}
